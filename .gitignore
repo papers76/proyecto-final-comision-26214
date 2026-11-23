@@ -1,0 +1,16 @@
+# Base de datos: se crea sola al ejecutar main.py
+inventario.db
+
+# Archivos que genera Python automáticamente
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Configuración de editores y del sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
